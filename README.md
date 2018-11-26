@@ -11,5 +11,5 @@ This is a collection of my notes taken by [Richmond](https://github.com/richmond
 [Lighthouse Labs](https://lighthouselabs.ca/)
 
 ## Table of Contents
-* Week 1
-* Day 1
+* [Week 1](/Week_1)
+ * [Day 1](/Week_1/Day_1)
