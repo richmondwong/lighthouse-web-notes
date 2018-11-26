@@ -10,6 +10,6 @@ This is a collection of my notes taken by [Richmond](https://github.com/richmond
 [My GitHub Profile](https://github.com/richmondwong)
 [Lighthouse Labs](https://lighthouselabs.ca/)
 
-##Table of Contents
+## Table of Contents
 * Week 1
-  * Day 1
+* Day 1
